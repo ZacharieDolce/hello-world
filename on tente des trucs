@@ -1,3 +1,4 @@
 for i in range (10):
-  print("my dad is "i " years old")
+  print("my mom is "i " years old")
+  print("my dad is just old)
   
